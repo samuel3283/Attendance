@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "384966535379",
+    "firebase_url": "https://projectmobileasistencia.firebaseio.com",
+    "project_id": "projectmobileasistencia",
+    "storage_bucket": "projectmobileasistencia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384966535379:android:2a6b60f8b946705c",
+        "android_client_info": {
+          "package_name": "attendance.com.pe.attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384966535379-fvcaoo2mjn5fhs4r30hcl1bevpfr2te0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYMMqC6uA7fZNAqY0oD-AAAvNYX_SXkYQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
